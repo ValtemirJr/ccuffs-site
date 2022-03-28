@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0328a99-ea40-4f73-b62e-938af37179d4" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/icons/email.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/twiter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/background-site.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/fotosobre.jpg" afterDir="false" />
+    <list default="true" id="d0328a99-ea40-4f73-b62e-938af37179d4" name="Changes" comment="Primeira sessão do site preparada faltando apenas editar texto e o fundo.&#10;&#10;Rodapé finalizado.">
+      <change afterPath="$PROJECT_DIR$/data1/images/zelda1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/images/zelda2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/images/zelda3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/images/zelda4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/images/zelda5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/tooltips/zelda1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/tooltips/zelda2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/tooltips/zelda3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/tooltips/zelda4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/tooltips/zelda5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/fullscreen.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/fullscreen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/fullscreen.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/fullscreen.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/style.mod.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/wowslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/wowslider.mod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/ws-ctrl-bootstrap.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/ws-ctrl-bootstrap.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/ws-ctrl-bootstrap.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/ws-ctrl-bootstrap.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/back1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/back2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/background-site.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
@@ -60,7 +81,12 @@
       <workItem from="1648049956927" duration="146000" />
       <workItem from="1648061722927" duration="1725000" />
       <workItem from="1648064179245" duration="1589000" />
-      <workItem from="1648219241765" duration="11113000" />
+      <workItem from="1648219241765" duration="12023000" />
+      <workItem from="1648262378891" duration="1101000" />
+      <workItem from="1648317775107" duration="2014000" />
+      <workItem from="1648339634035" duration="7841000" />
+      <workItem from="1648347968023" duration="124000" />
+      <workItem from="1648403492606" duration="1693000" />
     </task>
     <task id="LOCAL-00001" summary="Realizado uma barra de navegação">
       <created>1647967056274</created>
@@ -76,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647970062594</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Primeira sessão do site preparada faltando apenas editar texto e o fundo.&#10;&#10;Rodapé finalizado.">
+      <created>1648235569647</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648235569647</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +130,8 @@
     <MESSAGE value="Realizado uma barra de navegação" />
     <MESSAGE value="Realizado uma barra de navegação 2.0" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Primeira sessão do site preparada faltando apenas editar texto e o fundo.&#10;&#10;Rodapé finalizado." />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeira sessão do site preparada faltando apenas editar texto e o fundo.&#10;&#10;Rodapé finalizado." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

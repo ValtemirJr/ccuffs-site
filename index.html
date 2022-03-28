@@ -2,9 +2,15 @@
 <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
-        <title>Valtemir Home</title>
+        <title>Valtemir Rei Delas</title>
         <link rel="stylesheet" href="styles.css">
-        <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Arvo" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Arvo&family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+        <script type="text/javascript" src="engine1/jquery.js"></script>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
 
@@ -15,6 +21,7 @@
         <nav class ="nav">
             <a href= "#home"><div class = "homebutton"><strong> HOME </strong></div></a>
             <a href= "#about" ><div class = "sobrebutton"><strong> SOBRE </strong></div></a>
+            <a href= "#zelda"><div class = "zeldabutton"</a><strong> MINHA GATA ZELDA </strong></div></a>
             <a href= "#footer"><div class = "contatobutton"><strong> CONTATO </strong></div></a>
         </nav>
 
@@ -31,9 +38,36 @@
                     Meu nome é Valtemir e eu faço Ciências da Computação<br>
                     Meu nome é Valtemir e eu faço Ciências da Computação<br>
                     Meu nome é Valtemir e eu faço Ciências da Computação<br>
-
                 </p>
                 <img src ="imagens\fotosobre.jpg">
+            </div>
+        </div>
+
+        <div id = "zelda">
+            <div class = "sessao2">
+                <div id ="wowslider-container1">
+                    <div class="ws_images"><ul>
+                        <li><img src="data1/images/zelda1.jpg" alt="zelda1" title="zelda1" id="wows1_0"/></li>
+                        <li><img src="data1/images/zelda2.jpg" alt="zelda2" title="zelda2" id="wows1_1"/></li>
+                        <li><img src="data1/images/zelda3.jpg" alt="zelda3" title="zelda3" id="wows1_2"/></li>
+                        <li><img src="data1/images/zelda4.jpg" alt="zelda4" title="zelda4" id="wows1_3"/></li>
+                        <li><img src="data1/images/zelda5.jpg" alt="zelda5" title="zelda5" id="wows1_4"/></li>
+                    </ul></div>
+                    <div class="ws_bullets">
+                        <div>
+                            <a href="#" title="zelda1"><span><img src="data1/tooltips/zelda1.jpg" alt="zelda1"/>1</span></a>
+                            <a href="#" title="zelda2"><span><img src="data1/tooltips/zelda2.jpg" alt="zelda2"/>2</span></a>
+                            <a href="#" title="zelda3"><span><img src="data1/tooltips/zelda3.jpg" alt="zelda3"/>3</span></a>
+                            <a href="#" title="zelda4"><span><img src="data1/tooltips/zelda4.jpg" alt="zelda4"/>4</span></a>
+                            <a href="#" title="zelda5"><span><img src="data1/tooltips/zelda5.jpg" alt="zelda5"/>5</span></a>
+                        </div>
+                    </div>
+                    <div class="ws_script" style="position:absolute;left:-99%">
+                        <a href="http://wowslider.net/%22%3Eimage slider</a></div>
+                            <div class="ws_shadow"></div>
+                </div>
+                <script type="text/javascript" src="engine1/wowslider.js"></script>
+                <script type="text/javascript" src="engine1/script.js"></script>
             </div>
         </div>
 
@@ -46,5 +80,6 @@
                 <a href = "https://twitter.com/ValtemirJr" target="_blank"><img src="icons/twiter.png" height="30" width="30" title="Twiter"/></a>
             </div>
         </div>
+
     </body>
 </html>
