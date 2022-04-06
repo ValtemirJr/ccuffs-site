@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0328a99-ea40-4f73-b62e-938af37179d4" name="Changes" comment="Primeira sessão do site preparada faltando apenas editar texto e o fundo.&#10;&#10;Rodapé finalizado.">
-      <change afterPath="$PROJECT_DIR$/data1/images/zelda1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/images/zelda2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/images/zelda3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/images/zelda4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/images/zelda5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/tooltips/zelda1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/tooltips/zelda2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/tooltips/zelda3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/tooltips/zelda4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/tooltips/zelda5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/fullscreen.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/fullscreen.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/fullscreen.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/fullscreen.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/style.mod.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/wowslider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/wowslider.mod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/ws-ctrl-bootstrap.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/ws-ctrl-bootstrap.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/ws-ctrl-bootstrap.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/ws-ctrl-bootstrap.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/back1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/back2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagens/background-site.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -87,6 +59,11 @@
       <workItem from="1648339634035" duration="7841000" />
       <workItem from="1648347968023" duration="124000" />
       <workItem from="1648403492606" duration="1693000" />
+      <workItem from="1648520499322" duration="1000" />
+      <workItem from="1648520594947" duration="16000" />
+      <workItem from="1648570822360" duration="617000" />
+      <workItem from="1648573242269" duration="192000" />
+      <workItem from="1649263553166" duration="1622000" />
     </task>
     <task id="LOCAL-00001" summary="Realizado uma barra de navegação">
       <created>1647967056274</created>
