@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0328a99-ea40-4f73-b62e-938af37179d4" name="Changes" comment="Primeira sessão do site preparada faltando apenas editar texto e o fundo.&#10;&#10;Rodapé finalizado.">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="d0328a99-ea40-4f73-b62e-938af37179d4" name="Changes" comment="Site finalizado">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +64,8 @@
       <workItem from="1648573242269" duration="192000" />
       <workItem from="1649263553166" duration="1622000" />
       <workItem from="1649268862620" duration="24000" />
+      <workItem from="1649297923298" duration="78000" />
+      <workItem from="1649434398758" duration="628000" />
     </task>
     <task id="LOCAL-00001" summary="Realizado uma barra de navegação">
       <created>1647967056274</created>
@@ -86,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648235569647</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Site finalizado">
+      <created>1649297992300</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649297992300</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,7 +117,8 @@
     <MESSAGE value="Realizado uma barra de navegação 2.0" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Primeira sessão do site preparada faltando apenas editar texto e o fundo.&#10;&#10;Rodapé finalizado." />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeira sessão do site preparada faltando apenas editar texto e o fundo.&#10;&#10;Rodapé finalizado." />
+    <MESSAGE value="Site finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Site finalizado" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
